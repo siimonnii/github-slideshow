@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---la vie cette sale race 
 Use the left arrow to go back!
